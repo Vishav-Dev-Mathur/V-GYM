@@ -3,7 +3,7 @@
 
   V GYM is a fully responsive fitness website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/fitlife/"><strong>➥ Live Demo</strong></a>
+  <a href="https://vgym-vishav.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
